@@ -1,0 +1,20 @@
+[
+  {
+    "id": "f1",
+    "name": "Green Valley Recycling",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": "f2",
+    "name": "EcoDrop Center",
+    "lat": 37.7849,
+    "lng": -122.4094
+  },
+  {
+    "id": "f3",
+    "name": "Urban Waste Solutions",
+    "lat": 37.7649,
+    "lng": -122.4294
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "item": "Electronics",
+    "location": "Downtown Office",
+    "weight": 15,
+    "status": "Completed",
+    "date": "2 days ago",
+    "price": 45
+  },
+  {
+    "id": "2",
+    "item": "Metal Scraps",
+    "location": "Home Garage",
+    "weight": 8,
+    "status": "In Progress",
+    "date": "Today",
+    "price": 24
+  },
+  {
+    "id": "3",
+    "item": "Tree Branches",
+    "location": "Backyard",
+    "weight": 25,
+    "status": "Scheduled",
+    "date": "Tomorrow",
+    "price": 12
+  }
+]

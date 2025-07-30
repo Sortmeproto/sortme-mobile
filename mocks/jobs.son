@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a",
+    "item": "Washing Machine",
+    "location": "123 Main St",
+    "weight": 30,
+    "status": "Available",
+    "price": 30
+  },
+  {
+    "id": "b",
+    "item": "Office Chair",
+    "location": "456 Oak Ave",
+    "weight": 10,
+    "status": "Available",
+    "price": 10
+  }
+]
